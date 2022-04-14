@@ -1,0 +1,2 @@
+/usr/bin/ar qc libclustering.a CMakeFiles/clustering.dir/src/main.cpp.o
+/usr/bin/ranlib libclustering.a

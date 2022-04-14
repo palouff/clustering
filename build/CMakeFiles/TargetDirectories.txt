@@ -1,0 +1,6 @@
+/home/socrates/repo/clustering/build/CMakeFiles/clustering.dir
+/home/socrates/repo/clustering/build/CMakeFiles/clustering.e.dir
+/home/socrates/repo/clustering/build/CMakeFiles/test_clustering.e.dir
+/home/socrates/repo/clustering/build/CMakeFiles/test.dir
+/home/socrates/repo/clustering/build/CMakeFiles/edit_cache.dir
+/home/socrates/repo/clustering/build/CMakeFiles/rebuild_cache.dir

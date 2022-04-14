@@ -1,0 +1,1 @@
+/usr/bin/c++ -std=c++11 -O0 -g -Wall CMakeFiles/test_clustering.e.dir/test/test_clustering.cpp.o -o test_clustering.e  libclustering.a 
